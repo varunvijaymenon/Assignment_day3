@@ -1,0 +1,54 @@
+[
+    {
+        "Name" : "Varun Vijay",
+        "Phone Number" : "+91-7299966880",
+        "Email" : "varunvijaymenon@gmail.com",
+        "Linkedin" : "linkedin.com/varun-vijay",
+        "About Me" : "I am a data analyst who is always keen to take up initivatives and responsibilities with ownership and over 1 year of experience.",
+        "Education" : {
+            "College" : "Sri Venkateswara college of engineering",
+            "Majors" : "Bachelor of Engineering in Computer Science"
+            },
+        "Experience" : {
+            "Junior Data Analyst, Full-Time" : {
+                "Date" : "March 2021 - Present",
+                "Location" : "Chennai, TN",
+                "Company Name" : "Indium Software",
+                "Description" : "Worked on NLP projects like Keyword extraction, Phrase extraction, Sentiment analysis and NER identification.\nWorked extensively with Excel functions, data quality checks and data preparation.\nBuilt multiple Web Scrapers using Beautiful Soup and Selenium.•Wrote documentation for an entire codebase from scratch."
+                },
+            "Full Stack Data Analyst Intern, Full-Time" : {
+                "Date" : "Jun 2020 - Dec 2020, Jan 2021 - March 2021",
+                "Location" : "Chennai, TN",
+                "Company Name" : "Pixxon AI",
+                "Description" : "Developed a full-stack NLP application which parsed resumes and extracted important information.\nDesigned and implemented a normalized Postgres database and created DDL, DML, DQL scripts.\nDeveloped a web application using JavaScript to draw polygons on images and return boundary coordinates.\nPerformed Time-Series forecasting for multiple datasets using scikit-learn and PyTorch."
+            },
+            "Business Development Associate, Full-Time" : {
+                "Date" : "Sep 2019 - Feb 2020",
+                "Location" : "Chennai, TN",
+                "Company Name" : "Moneycart Financial Services",
+                "Description" : "Created attractive presentations and sales collateral to showcase the value proposition of the business to clients.\nIdentified new prospects and followed up on them through cold calling and e-mail.\nPerformed competitor analysis to to develop better business strategies."
+            },
+            "Marketing Strategist Intern" : {
+                "Date" : "Dec 2018 - Feb 2019, May 2019 - July 2019",
+                "Location" : "Chennai, TN",
+                "Company Name" : "Delium Technologies",
+                "Description" : "Created intuitive blogs and visual content by understanding multiple retail businesses and balancing therequirements of the decision makers at both ends.\nCreated customised pitch improvements by addressing the personal and market needs of company and theirclientele.\nMade sales pitches and provided product demos in meetings, cold calls and emails."
+            }
+        },
+        "Projects" : {
+            "Resume Parser" : {
+                "Tech Stack" : "Python, Flask, Vue, MySQL",
+                "Description" : "Developed a full-stack web application using with Flask serving a REST API with Vue as the frontend.\nUsed the OCR library Tesseract to scan resumes and convert to text.\nUsed a combination of techniques like Segmentation, RegEx matching to extract specific segments from the resume.\nImplemented Normalization in the database to achieve consistency among tables."
+            },
+            "Autonomous Flying Vehicle" : {
+                "Tech Stack" : "Python, Flask, Pyduino, MySQL",
+                "Description" : "Designed a drone that auto-stabilizes and detects crime using LSTM.\nUsed Flask to send a request to a mounted arduino to record video in real time and analyse it back-end to detectpresence of any violence in the frame using supervised learning.\nUsed Reinforcement learning to auto stabilize the drone and safe landing in case of any failure.\nStored the flagged location, image and result in a database."
+            }
+        },
+        "Technical Skills" : {
+            "Languages" : "Python, SQL (MySQL, PostgreSQL, BigQuery), JavaScript, HTML, CSS",
+            "Libraries" : "PyTorch, Keras, Scikit-learn, Pandas, NumPy, NLTK, Spacy",
+            "Other Tools" : "MS Office, Tableau"
+        }
+    }
+]
